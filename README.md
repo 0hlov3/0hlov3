@@ -5,11 +5,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@0hlov3](https://medium.com/@0hlov3)
 
-### Blogs posts
+### ✏️ Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">🗣️ Connect with me</h3>
+### 🗣️ Connect with me
 <p align="left">
 <a href="https://matrix.to/#/@0hlov3:fsociety.social" target="blank"><img src="https://img.shields.io/badge/Chat-Matrix-informational?style=flat&logo=matrix&logoColor=white&color=2bbc8a" alt="0hlov3" /></a>
 <a href="https://chaos.social/@0hlov3" target="blank"><img src="https://img.shields.io/badge/Microblogging-Mastodon-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" alt="0hlov3" /></a> 
@@ -18,7 +18,7 @@
 <a href="https://medium.com/@0hlov3" target="blank"><img src="https://img.shields.io/badge/Blogging-Medium-informational?style=flat&logo=medium&logoColor=white&color=2bbc8a" alt="@0hlov3" /></a>
 </p>
 
-<h3 align="left">🛠️ Technologies & Tools</h3>
+### 🛠️ Technologies & Tools
 <p align="left">
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" alt="linux" /> </a> 
  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a" alt="macos" /> </a>
