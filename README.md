@@ -48,13 +48,14 @@
  <a href="https://www.docker.com/"  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" alt="docker" /> </a> 
  <a href="https://kubernetes.io/"  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a" alt="kubernetes" /> </a> 
  <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a" alt="red-hat-open-shift" /> </a> 
- <a href="https://www.ansible.com/"  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a" alt="ansible" /> </a> 
+ <a href="https://helm.sh"  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Helm-informational?style=flat&logo=helm&logoColor=white&color=2bbc8a" alt="helm" /> </a>
  <a href="https://www.terraform.io/"  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Terraformt-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a" alt="terraform" /> </a> 
- <a href="https://www.vagrantup.com/"  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=2bbc8a" alt="red-hat-open-shift" /> </a>
+ <a href="https://www.ansible.com/"  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a" alt="ansible" /> </a> 
+ <a href="https://www.vagrantup.com/"  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=2bbc8a" alt="vagrant" /> </a>
  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Elasticsearch-informational?style=flat&logo=elasticstack&logoColor=white&color=2bbc8a" alt="elasticsearch" /> </a> 
+ <a href="https://prometheus.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a" alt="Prometheus" /> </a> 
  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a" alt="grafana" /> </a> 
- <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a" alt="jenkins" /> </a> 
- <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a" alt="grafana" /> </a> 
+ <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a" alt="jenkins" /> </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a" alt="postman" /> </a> 
  <br />
 </p>
