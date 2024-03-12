@@ -5,6 +5,14 @@
 
 - 📝 I regularly write articles on [https://medium.com/@0hlov3](https://medium.com/@0hlov3)
 
+### ✏️ Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [EndeavourOS + KDE Plasma](https://0hlov3.medium.com/endeavouros-kde-plasma-9a663ec222ae?source=rss-a27db1a58af0------2)
+- [GoReleaser build multi arch Docker Images](https://blog.devgenius.io/goreleaser-build-multi-arch-docker-images-8dd9a7903675?source=rss-a27db1a58af0------2)
+- [First Tools for your new Hetzner Kubernetes Cluster](https://faun.pub/first-tools-for-your-new-hetzner-kubernetes-cluster-3f1108346d56?source=rss-a27db1a58af0------2)
+- [Install a Kubernetes-Cluster on Hetzner Cloud](https://faun.pub/install-a-kubernetes-cluster-on-hetzner-cloud-200d4fb6a423?source=rss-a27db1a58af0------2)
+<!-- BLOG-POST-LIST:END -->
+
 ### 🗣️ Connect with me
 <p align="left">
 <a href="https://matrix.to/#/@0hlov3:fsociety.social" target="blank"><img src="https://img.shields.io/badge/Chat-Matrix-informational?style=flat&logo=matrix&logoColor=white&color=2bbc8a" alt="0hlov3" /></a>
@@ -55,11 +63,3 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a" alt="postman" /> </a> 
  <br />
 </p>
-
-### ✏️ Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [EndeavourOS + KDE Plasma](https://0hlov3.medium.com/endeavouros-kde-plasma-9a663ec222ae?source=rss-a27db1a58af0------2)
-- [GoReleaser build multi arch Docker Images](https://blog.devgenius.io/goreleaser-build-multi-arch-docker-images-8dd9a7903675?source=rss-a27db1a58af0------2)
-- [First Tools for your new Hetzner Kubernetes Cluster](https://faun.pub/first-tools-for-your-new-hetzner-kubernetes-cluster-3f1108346d56?source=rss-a27db1a58af0------2)
-- [Install a Kubernetes-Cluster on Hetzner Cloud](https://faun.pub/install-a-kubernetes-cluster-on-hetzner-cloud-200d4fb6a423?source=rss-a27db1a58af0------2)
-<!-- BLOG-POST-LIST:END -->
