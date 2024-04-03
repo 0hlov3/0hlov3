@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **vue** and i'm looking forward to get my **cks**
 
-- 📝 I regularly write articles on [https://medium.com/@0hlov3](https://medium.com/@0hlov3)
+- 📝 I regularly write articles on [https://blog.schoenwald.aero](https://blog.schoenwald.aero)
 
 ### ✏️ Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -19,7 +19,7 @@
 <a href="https://chaos.social/@0hlov3" target="blank"><img src="https://img.shields.io/badge/Microblogging-Mastodon-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" alt="0hlov3" /></a> 
 <a href="https://twitter.com/0hlov3s" target="blank"><img src="https://img.shields.io/badge/Microblogging-X-informational?style=flat&logo=x&logoColor=white&color=2bbc8a" alt="0hlov3s" /></a>
 <a href="https://linkedin.com/in/0hlov3" target="blank"><img src="https://img.shields.io/badge/Microblogging-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a" alt="0hlov3" /></a>
-<a href="https://medium.com/@0hlov3" target="blank"><img src="https://img.shields.io/badge/Blogging-Medium-informational?style=flat&logo=medium&logoColor=white&color=2bbc8a" alt="@0hlov3" /></a>
+<a href="https://blog.schoenwald.aero" target="blank"><img src="https://img.shields.io/badge/Blogging-Medium-informational?style=flat&logo=medium&logoColor=white&color=2bbc8a" alt="@0hlov3" /></a>
 </p>
 
 ### 🛠️ Technologies & Tools
