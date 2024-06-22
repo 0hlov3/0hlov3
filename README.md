@@ -7,10 +7,10 @@
 
 ### ✏️ Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How i learned for the Certified Kubernetes Administrator &lpar;CKA&rpar;](https://0hlov3.medium.com/how-i-learned-for-the-certified-kubernetes-administrator-cka-58c125c35eeb?source=rss-a27db1a58af0------2)
 - [EndeavourOS + KDE Plasma](https://0hlov3.medium.com/endeavouros-kde-plasma-9a663ec222ae?source=rss-a27db1a58af0------2)
 - [GoReleaser build multi arch Docker Images](https://blog.devgenius.io/goreleaser-build-multi-arch-docker-images-8dd9a7903675?source=rss-a27db1a58af0------2)
 - [First Tools for your new Hetzner Kubernetes Cluster](https://faun.pub/first-tools-for-your-new-hetzner-kubernetes-cluster-3f1108346d56?source=rss-a27db1a58af0------2)
-- [Install a Kubernetes-Cluster on Hetzner Cloud](https://faun.pub/install-a-kubernetes-cluster-on-hetzner-cloud-200d4fb6a423?source=rss-a27db1a58af0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🗣️ Connect with me
