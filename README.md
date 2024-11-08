@@ -7,10 +7,10 @@
 
 ### ✏️ Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Changelog and Release-Page creation with gitlab pipelines](https://0hlov3.medium.com/awesome-changelog-and-release-page-creation-with-gitlab-ci-409640b5ddd7?source=rss-a27db1a58af0------2)
 - [TI-Messenger based on Matrix](https://0hlov3.medium.com/ti-messenger-based-on-matrix-25fd1d81f51f?source=rss-a27db1a58af0------2)
 - [Matrix - high level overview](https://0hlov3.medium.com/matrix-high-level-overview-5e638dde7834?source=rss-a27db1a58af0------2)
 - [Secure your GO API with JWT from EntraID &lpar;client_credential flow&rpar;](https://0hlov3.medium.com/secure-your-go-api-with-jwt-from-entraid-client-credential-flow-41caa45e4ce0?source=rss-a27db1a58af0------2)
-- [How i learned for the Certified Kubernetes Administrator &lpar;CKA&rpar;](https://0hlov3.medium.com/how-i-learned-for-the-certified-kubernetes-administrator-cka-58c125c35eeb?source=rss-a27db1a58af0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🗣️ Connect with me
