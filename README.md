@@ -7,10 +7,10 @@
 
 ### ✏️ Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Where to start with Docker — Part 2](https://0hlov3.medium.com/where-to-start-with-docker-part-2-4f8d1c05e6c7?source=rss-a27db1a58af0------2)
 - [Where to start with Docker — Part 1](https://0hlov3.medium.com/where-to-start-with-docker-part-1-6d3000777018?source=rss-a27db1a58af0------2)
 - [Awesome Changelog and Release-Page creation with gitlab pipelines](https://0hlov3.medium.com/awesome-changelog-and-release-page-creation-with-gitlab-ci-409640b5ddd7?source=rss-a27db1a58af0------2)
 - [TI-Messenger based on Matrix](https://0hlov3.medium.com/ti-messenger-based-on-matrix-25fd1d81f51f?source=rss-a27db1a58af0------2)
-- [Matrix - high level overview](https://0hlov3.medium.com/matrix-high-level-overview-5e638dde7834?source=rss-a27db1a58af0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🗣️ Connect with me
