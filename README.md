@@ -17,8 +17,7 @@
 <p align="left">
 <a href="https://matrix.to/#/@0hlov3:fsociety.social" target="blank"><img src="https://img.shields.io/badge/Chat-Matrix-informational?style=flat&logo=matrix&logoColor=white&color=2bbc8a" alt="0hlov3" /></a>
 <a href="https://chaos.social/@0hlov3" target="blank"><img src="https://img.shields.io/badge/Microblogging-Mastodon-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" alt="0hlov3" /></a> 
-<a href="https://twitter.com/0hlov3s" target="blank"><img src="https://img.shields.io/badge/Microblogging-X-informational?style=flat&logo=x&logoColor=white&color=2bbc8a" alt="0hlov3s" /></a>
-<a href="https://linkedin.com/in/0hlov3" target="blank"><img src="https://img.shields.io/badge/Microblogging-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a" alt="0hlov3" /></a>
+<a href="https://www.linkedin.com/in/olafschoenwald/" target="blank"><img src="https://img.shields.io/badge/Microblogging-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a" alt="0hlov3" /></a>
 <a href="https://blog.schoenwald.aero" target="blank"><img src="https://img.shields.io/badge/Blogging-Medium-informational?style=flat&logo=medium&logoColor=white&color=2bbc8a" alt="@0hlov3" /></a>
 </p>
 
