@@ -7,10 +7,10 @@
 
 ### ✏️ Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Customizing Konsole](https://0hlov3.medium.com/customizing-konsole-40442023a863?source=rss-a27db1a58af0------2)
 - [Deploying Keycloak in Kubernetes for Scalability and Performance](https://0hlov3.medium.com/deploying-keycloak-in-kubernetes-for-scalability-and-performance-8daffc0f943b?source=rss-a27db1a58af0------2)
 - [Where to start with Docker — Part 3](https://0hlov3.medium.com/where-to-start-with-docker-part-3-64ca5841db35?source=rss-a27db1a58af0------2)
 - [Von der Desktop- bis zur Server-Welt: Docker und Flatpak im Vergleich](https://0hlov3.medium.com/von-der-desktop-bis-zur-server-welt-docker-und-flatpak-im-vergleich-e9f0ae83f59e?source=rss-a27db1a58af0------2)
-- [Where to start with Docker — Part 2](https://0hlov3.medium.com/where-to-start-with-docker-part-2-4f8d1c05e6c7?source=rss-a27db1a58af0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🗣️ Connect with me
