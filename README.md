@@ -7,10 +7,10 @@
 
 ### ✏️ Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering GPG Keys](https://0hlov3.medium.com/mastering-gpg-keys-755ebb8d7fb4?source=rss-a27db1a58af0------2)
 - [Streamline Your SSH Workflow with KDE Plasma’s Wallet and ksshaskpass](https://0hlov3.medium.com/streamline-your-ssh-workflow-with-kde-plasmas-wallet-and-ksshaskpass-e22f49b6a07a?source=rss-a27db1a58af0------2)
 - [Customizing Konsole](https://0hlov3.medium.com/customizing-konsole-40442023a863?source=rss-a27db1a58af0------2)
 - [Deploying Keycloak in Kubernetes for Scalability and Performance](https://0hlov3.medium.com/deploying-keycloak-in-kubernetes-for-scalability-and-performance-8daffc0f943b?source=rss-a27db1a58af0------2)
-- [Where to start with Docker — Part 3](https://0hlov3.medium.com/where-to-start-with-docker-part-3-64ca5841db35?source=rss-a27db1a58af0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🗣️ Connect with me
