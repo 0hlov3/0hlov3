@@ -20,10 +20,10 @@ When I’m not busy building and securing Kubernetes clusters, I’m probably ex
 
 ### ✏️ Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to WebAuthn &amp; FIDO2](https://schoenwald.aero/posts/2025-02-5_the-ultimate-guide-to-yubikey/)
 - [Building and Running Multi-Arch Containers with Podman](https://schoenwald.aero/posts/2025-01-27_podman-multiarch-image/)
 - [Effortless Multi-Arch Docker Images with GoReleaser and GitHub Actions](https://schoenwald.aero/posts/2025-01-25_effortless-multi-arch-docker-images-with-goreleaser-and-github-actions/)
 - [Migrate from Medium to Hugo](https://schoenwald.aero/posts/2025-01-23_migrate-from-medium-to-hugo/)
-- [Create Your Personal Page Today](https://schoenwald.aero/posts/2025-01-22_create-your-personal-page-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🗣️ Connect with me
