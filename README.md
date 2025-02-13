@@ -20,10 +20,10 @@ When I’m not busy building and securing Kubernetes clusters, I’m probably ex
 
 ### ✏️ Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Zitadel as an OIDC Provider in Grafana](https://schoenwald.aero/posts/2025-02-12_integrating_zitadel_as_an_oidc_provider_in_grafana/)
 - [The Ultimate Guide to WebAuthn &amp; FIDO2](https://schoenwald.aero/posts/2025-02-5_the-ultimate-guide-to-webauthn-fido2/)
 - [Building and Running Multi-Arch Containers with Podman](https://schoenwald.aero/posts/2025-01-27_podman-multiarch-image/)
 - [Effortless Multi-Arch Docker Images with GoReleaser and GitHub Actions](https://schoenwald.aero/posts/2025-01-25_effortless-multi-arch-docker-images-with-goreleaser-and-github-actions/)
-- [Migrate from Medium to Hugo](https://schoenwald.aero/posts/2025-01-23_migrate-from-medium-to-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🗣️ Connect with me
