@@ -20,10 +20,10 @@ When I’m not busy building and securing Kubernetes clusters, I’m probably ex
 
 ### ✏️ Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hardening Kubernetes Nodes on Ubuntu](https://schoenwald.aero/posts/2025-03-09_hardening-kubernetes-nodes-on-ubuntu/)
 - [Understanding the Components of Kubernetes](https://schoenwald.aero/posts/2025-02-26_components-of-kubernetes/)
 - [Introduction to Kubernetes](https://schoenwald.aero/posts/2025-02-24_introduction-to-kubernetes/)
 - [Managing Multiple Tool Versions with asdf](https://schoenwald.aero/posts/2025-02-20_managing-multiple-tool-versions/)
-- [Configuring ArgoCD with Zitadel via Helm](https://schoenwald.aero/posts/2025-02-16_argocd-oidc/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🗣️ Connect with me
