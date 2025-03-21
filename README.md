@@ -1,10 +1,6 @@
 <h1 align="left">Hi there 👋</h1>
 <h3 align="left">I'm 0hlov3, a passionate DevOps Engineer and Kubestronaut from Germany 🚀</h3>
 
-💬 **Let's Connect**  
-- 🐾 Follow my journey on [GitHub](https://github.com/0hlov3).  
-- 🌐 Check out my blog for deep dives into DevOps, Kubernetes, and more: [schoenwald.aero](https://schoenwald.aero/posts/).  
-
 ✨ **Fun Fact**  
 When I’m not busy building and securing Kubernetes clusters, I’m probably experimenting with new tools or updating my Matrix server!  
 
