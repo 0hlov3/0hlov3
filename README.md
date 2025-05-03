@@ -6,10 +6,10 @@ When I’m not busy building and securing Kubernetes clusters, I’m probably ex
 
 ### ✏️ Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Configuration Format Comparison](https://schoenwald.aero/posts/2025-05-03_configuration-format-comparison/)
 - [From Observability to Action: Using Falco for Kubernetes Threat Detection](https://schoenwald.aero/posts/2025-03-29_falco-for-kubernetes-threat-detection/)
 - [CIS Benchmark for Kubernetes](https://schoenwald.aero/posts/2025-03-12_cis-benchmark-for-kubernetes/)
 - [Hardening Kubernetes Nodes on Ubuntu](https://schoenwald.aero/posts/2025-03-09_hardening-kubernetes-nodes-on-ubuntu/)
-- [Understanding the Components of Kubernetes](https://schoenwald.aero/posts/2025-02-26_components-of-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🗣️ Connect with me
