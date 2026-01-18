@@ -6,10 +6,10 @@ When I’m not busy building and securing Kubernetes clusters, I’m probably ex
 
 ### ✏️ Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Bitwarden Secrets Manager with Kubernetes](https://schoenwald.aero/posts/2026-01-17_bitwarden-secrets-manager-with-kubernetes/)
 - [Run NGINX Securely in Kubernetes](https://schoenwald.aero/posts/2025-10-07_run-nginx-securely-in-kubernetes/)
 - [Apple’s New container](https://schoenwald.aero/posts/2025-09-14_apple-opensource-containers/)
 - [A weekend in Istanbul for a wedding](https://schoenwald.aero/posts/2025-09-12_a-weekend-in-istanbul-for-a-wedding/)
-- [Walking the Camino Frances](https://schoenwald.aero/posts/2025-06-15_walking-the-camino-frances/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🗣️ Connect with me
