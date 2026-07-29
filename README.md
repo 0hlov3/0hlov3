@@ -6,10 +6,10 @@ When I’m not busy building and securing Kubernetes clusters, I’m probably ex
 
 ### ✏️ Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Talos Linux Without SSH](https://schoenwald.aero/posts/2026-07-28_debugging-talos/)
 - [From Hardened Ubuntu Nodes to Talos Linux](https://schoenwald.aero/posts/2026-07-26_from-ubuntu-to-talos/)
 - [Keeping your Mac awake with caffeinate](https://schoenwald.aero/posts/2026-07-25_keeping-your-mac-awake-with-caffeinate/)
 - [Using Bitwarden Secrets Manager with Kubernetes](https://schoenwald.aero/posts/2026-01-17_bitwarden-secrets-manager-with-kubernetes/)
-- [Run NGINX Securely in Kubernetes](https://schoenwald.aero/posts/2025-10-07_run-nginx-securely-in-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🗣️ Connect with me
